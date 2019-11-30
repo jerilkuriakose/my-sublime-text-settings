@@ -1,0 +1,8 @@
+{
+    "python_interpreter": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "anaconda_linting": false,
+    "auto_formatting": true,
+    "pep328": false,
+    "swallow_startup_errors": true,
+    "enable_docstrings_tooltip": false
+}
