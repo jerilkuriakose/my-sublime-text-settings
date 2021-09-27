@@ -1,0 +1,23 @@
+// the file name will be chosen by sublime it should be (Monokai.sublime-color-scheme)
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+// select monokai color scheme --> selct customer color scheme --> paste the following:
+{
+    "variables":
+    {
+        "green": "hsl(114, 31%, 60%)"
+    },
+    "globals":
+    {
+        "background": "rgb(34, 34, 34)",
+        "foreground": "#EEEEEE",
+        "caret": "white"
+    },
+    "rules":
+    [
+        {
+            "name": "String",
+            "scope": "string",
+            "foreground": "var(green)"
+        },
+    ]
+}
